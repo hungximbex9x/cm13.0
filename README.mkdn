@@ -7,7 +7,7 @@ To get started with Android/CyanogenMod, you'll need to get familiar with Git an
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-repo init -u git://github.com/hungximbex9x/cm13.0.git -b cm-13.0
+repo init -u git://github.com/hungximbex9x/zenfone5.git -b cm-13.0
 
 Then to sync up:
 
