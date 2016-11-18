@@ -528,7 +528,8 @@
   
   
  <!-- Intel specific code -->
- <project path="hardware/intel" name="zf5/android_hardware_intel" groups="intel" remote="github" revision="refs/heads/marshmallow" />
+ <project path="hardware/intel" name="hungximbex9x/hardware_intel" groups="intel" remote="github" revision="refs/heads/master" />
+
 
 </manifest>
                                                                                                        
