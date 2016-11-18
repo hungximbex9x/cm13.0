@@ -524,7 +524,7 @@
   <project path="vendor/asus/T00F" name="hungximbex9x/vendor_asus_T00F" remote="github" revision="refs/heads/cm-13.0" />
   
    <!-- Intel specific code -->
-<project path="hardware/intel" name="hungximbex9x/hardware_intel" groups="intel" remote="github" revision="refs/heads/master" />
+<project path="hardware/intel" name="hungximbex9x/hardware_intel" groups="intel" remote="github" revision="refs/heads/cm-13.0" />
 
 
   
