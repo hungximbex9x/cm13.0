@@ -526,7 +526,7 @@
    <!-- Intel specific code -->
 <project path="hardware/intel" name="hungximbex9x/hardware_intel" groups="intel" remote="github" revision="refs/heads/cm-13.0" />
 
-
+</manifest>
   
  
                                                                                                        
