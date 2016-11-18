@@ -178,13 +178,7 @@
   <project path="hardware/broadcom/libbt" name="CyanogenMod/android_hardware_broadcom_libbt" groups="pdk" />
   <project path="hardware/broadcom/wlan" name="CyanogenMod/android_hardware_broadcom_wlan" groups="pdk,broadcom_wlan" />
   <project path="hardware/cyanogen" name="CyanogenMod/android_hardware_cyanogen" />
-  <project path="hardware/intel/common/libmix" name="CyanogenMod/android_hardware_intel_common_libmix" groups="intel" />
-  <project path="hardware/intel/common/libva" name="CyanogenMod/android_hardware_intel_common_libva" groups="intel" />
-  <project path="hardware/intel/common/libwsbm" name="CyanogenMod/android_hardware_intel_common_libwsbm" groups="intel" />
-  <project path="hardware/intel/common/omx-components" name="CyanogenMod/android_hardware_intel_common_omx-components" groups="intel" />
-  <project path="hardware/intel/img/hwcomposer" name="CyanogenMod/android_hardware_intel_img_hwcomposer" groups="intel" />
-  <project path="hardware/intel/img/psb_headers" name="CyanogenMod/android_hardware_intel_img_psb_headers" groups="intel" />
-  <project path="hardware/intel/img/psb_video" name="CyanogenMod/android_hardware_intel_img_psb_video" groups="intel" />
+  
   <project path="hardware/invensense" name="CyanogenMod/android_hardware_invensense" groups="invensense" />
   <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" groups="pdk" />
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" groups="pdk" />
@@ -523,5 +517,12 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs,pdk-fs" remote="aosp" />
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
+  
+  
+<!-- ASUS Zenfone 5 specific code -->
+  <project path="device/asus/ctp-common" name="Zenfone-Dev/android_device_asus_ctp-common" remote="github" revision="refs/heads/cm-13.0 />
+  <project path="device/asus/T00F" name="Zenfone-Dev/android_device_asus_T00F" remote"github" revision"="refs/heads/cm-13.0 />
+                                                                                                         
+                                                                                                        
 
 </manifest>
